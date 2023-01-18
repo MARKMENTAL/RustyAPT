@@ -5,3 +5,6 @@ A Rust front-end for Debian's apt-get package manager
 With Cargo Rust Package manager `cargo build`
 You should now have an executable to run
 You can also do `cargo build && cargo run`
+
+# Records
+Saved packages that you install will be saved to package_changes.txt 
