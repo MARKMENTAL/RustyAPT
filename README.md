@@ -7,4 +7,4 @@ You should now have an executable to run
 You can also do `cargo build && cargo run`
 
 # Records
-Saved packages that you install will be saved to package_changes.txt 
+Saved packages that you install or remove will be saved to `package_changes.txt` 
